@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 近藤新太！！！
 
 You can use the [editor on GitHub](https://github.com/kondo0108/homepage/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
