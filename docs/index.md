@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## 自己紹介
 
-You can use the [editor on GitHub](https://github.com/kondo0108/homepage/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+私は、大学で情報系のことについて勉強しています。
 
-### Markdown
+幅広い情報分野の中でも、クラウドについて詳しく勉強しています。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 趣味
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+趣味は写真撮影です。
 
-- Bulleted
-- List
+風景や鳥、草花など、幅広いものを撮影します。
 
-1. Numbered
-2. List
+## 好きな食べ物
 
-**Bold** and _Italic_ and `Code` text
+好きな食べ物は、お菓子です。
 
-[Link](url) and ![Image](src)
-```
+甘いものには目がありません。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+特にプリンが大好物です。
 
-### Jekyll Themes
+ですが、チョコレートは苦手です。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kondo0108/homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 好きな季節
 
-### Support or Contact
+好きな季節は冬です。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1月生まれなので、寒いのは得意です。
+
+## 好きな飲料メーカー
+
+好きな飲料メーカーはダイドーです。
+
+特にコーヒーが好きです。
+
+## 好きな水生昆虫
+
+好きな水生昆虫はアメンボです。
+
+私は泳ぐことが苦手なので、水面をスイスイと移動できるアメンボに憧れます。
+
+## 好きなキーボードのキー
+
+好きなキーボードのキーはENDキーです。
+
+すぐに分の最後部に移動できるので重宝しています。
