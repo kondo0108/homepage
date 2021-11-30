@@ -1,35 +1,47 @@
 ## 自己紹介
 
-私は今、大学で情報系の勉強をしています。
 
-### Markdown
+私は、大学で情報系のことについて勉強しています。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+幅広い情報分野の中でも、クラウドについて詳しく勉強しています。
 
-```markdown
-Syntax highlighted code block
+## 趣味
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+趣味は写真撮影です。
 
-1. Numbered
-2. List
+風景や鳥、草花など、幅広いものを撮影します。
 
-**Bold** and _Italic_ and `Code` text
+## 好きな食べ物
 
-[Link](url) and ![Image](src)
-```
+好きな食べ物は、お菓子です。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+甘いものには目がありません。
 
-### Jekyll Themes
+特にプリンが大好物です。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kondo0108/homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ですが、チョコレートは苦手です。
 
-### Support or Contact
+## 好きな季節
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+好きな季節は冬です。
+
+1月生まれなので、寒いのは得意です。
+
+## 好きな飲料メーカー
+
+好きな飲料メーカーはダイドーです。
+
+特にコーヒーが好きです。
+
+## 好きな水生昆虫
+
+好きな水生昆虫はアメンボです。
+
+私は泳ぐことが苦手なので、水面をスイスイと移動できるアメンボに憧れます。
+
+## 好きなキーボードのキー
+
+好きなキーボードのキーはENDキーです。
+
+すぐに分の最後部に移動できるので重宝しています。
